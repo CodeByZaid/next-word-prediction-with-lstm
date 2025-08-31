@@ -1,3 +1,0 @@
-[ 2025-08-30 22:50:51,902 ] 16 root - INFO - Starting data ingestion process...
-[ 2025-08-30 22:50:52,580 ] 24 root - INFO - Hamlet dataset loaded successfully from Gutenberg corpus
-[ 2025-08-30 22:50:52,583 ] 33 root - INFO - Data ingestion completed. Corpus saved at artifacts/raw_data\hamlet.txt
